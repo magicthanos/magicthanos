@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magicthanos
 - 👀 I’m interested in coding, game development.
-- 🌱 I’m currently learning c#/c++.
+- 🌱 I’m currently learning c#/c++/python/SQL.
 - 💞️ I’m looking to collaborate on anything really i just like coding.
 - 📫 How to reach me idk my twitter is Magic_Thanos.
 
